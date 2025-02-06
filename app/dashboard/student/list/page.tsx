@@ -11,7 +11,7 @@ export default async function list() {
             <Table>
                 <TableHeader>
                     <TableRow>
-                        <TableHead className="w-[50%]">Nome</TableHead>
+                        <TableHead className="w-[50%]">Titulo</TableHead>
                         <TableHead>E-mail</TableHead>
                     </TableRow>
                 </TableHeader>
